@@ -10,7 +10,7 @@ export const en = defineConfig({
         nav: nav(),
         sidebar: sidebar(),
         editLink: {
-            pattern: 'https://github.com/skyshine-blog/edit/master/src/:path',
+            pattern: 'https://github.com/sky-shine/skyshine-blog/edit/master/src/:path',
             text: 'Edit this page on GitHub'
         },
 

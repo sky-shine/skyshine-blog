@@ -11,7 +11,7 @@ export const zh = defineConfig({
         sidebar: sidebar(),
 
         editLink: {
-            pattern: 'https://github.com/skyshine-blog/edit/master/src/:path',
+            pattern: 'https://github.com/sky-shine/skyshine-blog/edit/master/src/:path',
             text: '在 GitHub 上编辑此页面'
         },
 
