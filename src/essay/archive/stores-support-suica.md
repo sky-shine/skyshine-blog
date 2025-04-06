@@ -1,3 +1,5 @@
+
+## コンビニ・飲料自動販売機
 | Logo | 店名（日文） | 链接 |
 |------|--------------|------|
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-acure.png) | アキュア | [官网](http://www.acure-fun.net/) |
@@ -12,6 +14,10 @@
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-lawson.png) | LAWSON（ローソン） | [官网](https://www.lawson.co.jp/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-lawsonstore100.png) | LAWSON STORE 100（ローソンストア100） | [官网](https://store100.lawson.co.jp/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-cocacola.png) | 日本コカ・コーラ | [官网](http://www.cocacola.co.jp/vending-machine/multi_money/) |
+
+## スーパー・ショッピングセンター・百貨店
+| Logo | 店名（日文） | 链接 |
+|------|--------------|------|
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-akitaseisen.png) | 秋田生鮮市場保戸野店 | [官网](https://www.livit.jregroup.ne.jp/search/sub/%E7%94%9F%E9%AE%AE%E5%B8%82%E5%A0%B4) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-aquacity.png) | アクアシティお台場 | [官网](http://www.aquacity.jp/floorguide/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-lalatoyosu.png) | アーバンドックららぽーと豊洲 | [官网](https://mitsui-shopping-park.com/lalaport/toyosu/) |        
@@ -71,6 +77,11 @@
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-lalayokohama.png) | ららぽーと横浜 | [官网](https://mitsui-shopping-park.com/lalaport/yokohama/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-landmark.png) | 横浜ランドマークタワー | [官网](http://www.yokohama-landmark.jp/page/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-ricos.png) | リコス | [官网](https://g-7ricosstores.co.jp/) |
+
+
+## 駅ビルなど
+| Logo | 店名（日文） | 链接 |
+|------|--------------|------|
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-shunmikan.png) | 旬味館 | [官网](https://syunmikan-abc.com/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-az.png) | az | [官网](https://www.takasakitb.co.jp/az-kumagaya/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-atre.png) | アトレ | [官网](https://www.atre.co.jp/) |
@@ -109,6 +120,10 @@
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-lumine.jpg) | ルミネ | [官网](https://www.lumine.ne.jp/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-newoman.png) | NEWoMan | [官网](https://www.newoman.jp/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-lierrefujisawa.png) | リエール藤沢 | [官网](https://retail.jr-cross.co.jp/special/lierre-fujisawa) |
+
+## グルメ・フード
+| Logo | 店名（日文） | 链接 |
+|------|--------------|------|
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-aiya.png) | 藍屋 | [官网](https://www.skylark.co.jp/aiya/index.html) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-amataro.png) | 甘太郎 | [官网](http://www.amataro.jp/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-ikinaristeak.png) | いきなりステーキ | [官网](http://ikinaristeak.com/home/) |
@@ -171,6 +186,10 @@
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-lapausa.png) | ラパウザ | [官网](http://www.lapausa.jp/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-ringerhat.png) | リンガーハット | [官网](https://www.ringerhut.jp/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-royalhost.png) | ロイヤルホスト | [官网](http://www.royalhost.jp/restaurant_searh/index.php) |
+
+## ライフスタイル
+| Logo | 店名（日文） | 链接 |
+|------|--------------|------|
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-avail.png) | アベイル | [官网](https://www.shimamura.gr.jp/avail/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-yellowhat.jpg) | イエローハット | [官网](https://www.yellowhat.jp/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-welcia.png) | ウェルシア | [官网](https://www.welcia-yakkyoku.co.jp/) |
@@ -211,6 +230,10 @@
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-aoyama.png) | 洋服の青山 | [官网](https://www.y-aoyama.jp/shop/?lc=topBnr) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-yodobashi.png) | ヨドバシカメラ | [官网](http://www.yodobashi.com/ec/store/list/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-ryohinkeikaku.png) | 良品計画 | [官网](https://www.muji.com/jp/ja/store) |
+
+## タクシー・レンタカー
+| Logo | 店名（日文） | 链接 |
+|------|--------------|------|
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-orixrentacar.png) | オリックスレンタカー | [官网](http://car.orix.co.jp/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-km.png) | kmグループ | [官网](http://www.km-group.co.jp/taxi/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-jrerl.png) | ジェイアール東日本レンタリース | [官网](http://www.jrerl.co.jp/) |
@@ -221,6 +244,10 @@
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-toyotarentacar.png) | トヨタレンタカー | [官网](http://rent.toyota.co.jp/rental/main22.aspx) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-nihon.png) | 日本交通グループ | [官网](http://www.nihon-kotsu.co.jp/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-hinomaru.png) | 日の丸自動車 | [官网](https://hinomaru.tokyo/) |
+
+##観光・おでかけ・宿泊施設
+| Logo | 店名（日文） | 链接 |
+|------|--------------|------|
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-kahaku.png) | 国立科学博物館 | [官网](http://www.kahaku.go.jp/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-westernmuseum.png) | 国立西洋美術館 | [官网](http://www.nmwa.go.jp/jp/index.html) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-hotelmets201810.png) | ホテルメッツ | [官网](https://www.hotelmets.jp/contents/hotel_list.html) |
@@ -232,11 +259,19 @@
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-mesmtokyo.png) | メズム東京、オートグラフコレクション | [官网](https://www.mesm.jp/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-hotelmetropolitan201810.png) | メトロポリタンホテルズ | [官网](http://www.jre-hotels.jp/metro/hotels/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-routeinn.png) | ルートインホテルズ | [官网](http://www.route-inn.co.jp/?id=suica110) |
+
+## アミューズメント
+| Logo | 店名（日文） | 链接 |
+|------|--------------|------|
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-kaikatsuclub.png) | 快活CLUB | [官网](http://www.kaikatsu.jp/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-karaokekan.png) | カラオケ館 | [官网](http://www.karaokekan.jp/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-karaokejiyuukan.png) | カラオケ時遊館 | [官网](http://www.atom-corp.co.jp/brand/brand.php?brand_no=69) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-karaokemanekineko.png) | カラオケまねきねこ | [官网](https://www.karaokemanekineko.jp/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-taito.png) | タイトーステーション | [官网](https://www.taito.co.jp/gc) |
+
+## その他
+| Logo | 店名（日文） | 链接 |
+|------|--------------|------|
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-idemitsu.png) | 出光 | [官网](https://www.idemitsu.com/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-emg.png) | エッソ・モービル・ゼネラル | [官网](https://eneos-ss.com/search/ss/pc/top.php) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-jexer.png) | ジェクサー | [官网](http://www.jexer.jp/fitness/index.html) |
