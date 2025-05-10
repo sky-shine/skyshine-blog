@@ -1,5 +1,7 @@
+## JR东日本官网标注支持suica支付的店
 
-## コンビニ・飲料自動販売機
+source: [JR东日本官网](https://www.jreast.co.jp/suicamoney/shopping/)
+### 便利店|飲料自動販売機
 | Logo | 店名（日文） | 链接 |
 |------|--------------|------|
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-acure.png) | アキュア | [官网](http://www.acure-fun.net/) |
@@ -15,7 +17,7 @@
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-lawsonstore100.png) | LAWSON STORE 100（ローソンストア100） | [官网](https://store100.lawson.co.jp/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-cocacola.png) | 日本コカ・コーラ | [官网](http://www.cocacola.co.jp/vending-machine/multi_money/) |
 
-## スーパー・ショッピングセンター・百貨店
+### 超市|购物中心|百貨店
 | Logo | 店名（日文） | 链接 |
 |------|--------------|------|
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-akitaseisen.png) | 秋田生鮮市場保戸野店 | [官网](https://www.livit.jregroup.ne.jp/search/sub/%E7%94%9F%E9%AE%AE%E5%B8%82%E5%A0%B4) |
@@ -79,7 +81,7 @@
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-ricos.png) | リコス | [官网](https://g-7ricosstores.co.jp/) |
 
 
-## 駅ビルなど
+### 駅ビルなど（地铁站商场？）
 | Logo | 店名（日文） | 链接 |
 |------|--------------|------|
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-shunmikan.png) | 旬味館 | [官网](https://syunmikan-abc.com/) |
@@ -121,7 +123,7 @@
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-newoman.png) | NEWoMan | [官网](https://www.newoman.jp/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-lierrefujisawa.png) | リエール藤沢 | [官网](https://retail.jr-cross.co.jp/special/lierre-fujisawa) |
 
-## グルメ・フード
+### 美食|food
 | Logo | 店名（日文） | 链接 |
 |------|--------------|------|
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-aiya.png) | 藍屋 | [官网](https://www.skylark.co.jp/aiya/index.html) |
@@ -187,7 +189,7 @@
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-ringerhat.png) | リンガーハット | [官网](https://www.ringerhut.jp/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-royalhost.png) | ロイヤルホスト | [官网](http://www.royalhost.jp/restaurant_searh/index.php) |
 
-## ライフスタイル
+### Lifestyle
 | Logo | 店名（日文） | 链接 |
 |------|--------------|------|
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-avail.png) | アベイル | [官网](https://www.shimamura.gr.jp/avail/) |
@@ -231,7 +233,7 @@
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-yodobashi.png) | ヨドバシカメラ | [官网](http://www.yodobashi.com/ec/store/list/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-ryohinkeikaku.png) | 良品計画 | [官网](https://www.muji.com/jp/ja/store) |
 
-## タクシー・レンタカー
+### TAXI|租车
 | Logo | 店名（日文） | 链接 |
 |------|--------------|------|
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-orixrentacar.png) | オリックスレンタカー | [官网](http://car.orix.co.jp/) |
@@ -260,7 +262,7 @@
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-hotelmetropolitan201810.png) | メトロポリタンホテルズ | [官网](http://www.jre-hotels.jp/metro/hotels/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-routeinn.png) | ルートインホテルズ | [官网](http://www.route-inn.co.jp/?id=suica110) |
 
-## アミューズメント
+### 娱乐
 | Logo | 店名（日文） | 链接 |
 |------|--------------|------|
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-kaikatsuclub.png) | 快活CLUB | [官网](http://www.kaikatsu.jp/) |
@@ -269,7 +271,7 @@
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-karaokemanekineko.png) | カラオケまねきねこ | [官网](https://www.karaokemanekineko.jp/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-taito.png) | タイトーステーション | [官网](https://www.taito.co.jp/gc) |
 
-## その他
+### 其他
 | Logo | 店名（日文） | 链接 |
 |------|--------------|------|
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-idemitsu.png) | 出光 | [官网](https://www.idemitsu.com/) |
@@ -279,3 +281,44 @@
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-times.png) | タイムズ | [官网](https://times-info.net/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-nihonyubin.png) | 日本郵便 | [官网](https://www.post.japanpost.jp/life/cashless/index.html) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-yamato.png) | ヤマト運輸 | [官网](http://locations.kuronekoyamato.co.jp/p/yamato01/) |
+
+## 别人整理的支持suica的店
+https://www.money-press.info/suica-acceptstore/
+
+## app或网站找到可以suica支付的餐馆：
+在更多详细筛选条件里选择关键词：電子マネー || 交通系電子マネー
+| Logo | 店名（日文） | 链接 |
+|------|--------------|------|
+|![Image](https://tblg.k-img.com/favicon.ico?20230727)|食べログ|[官网](https://tabelog.com)|
+|![Image](https://imgfp.hotp.jp/SYS/cmn/images/front_002/logo_hotopepper_264x45.png) |hotpepper|[官网](https://www.hotpepper.jp/)|
+
+## ekiten
+类似hotpeper，但是可以找到除了餐馆以外可以刷suica的店，但是不全。
+
+筛选关键词：電子マネー || 交通系電子マネー
+ekiten：[链接](https://www.ekiten.jp/)
+
+## 谷歌地图
+在想去的那家店的地图上看简介里的详情，有的会标注仅限现金，评论里的照片有时会拍到收银台，看收银台上有没有suica标志就行。
+
+## 已知支持suica的店（待更新）
+gigo和taito station 抓娃娃
+
+hinata noyu和naniwa noyu 泡澡
+
+新大阪东改札出口附近的售票机，支持微信支付宝的那种，可以用suica买新干线车票
+
+新大阪附近的萨利亚和なか卯
+
+新大阪conan那边的宝くじ
+
+Tjoy umeda 电影院
+
+valor awaji和maruhachi超市
+
+EGAO BANH MI 越南料理
+
+1pound steak&hamburg takeru 牛排马肉排
+
+セント 韩国料理
+
