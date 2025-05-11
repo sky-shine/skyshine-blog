@@ -247,7 +247,7 @@ source: [JR东日本官网](https://www.jreast.co.jp/suicamoney/shopping/)
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-nihon.png) | 日本交通グループ | [官网](http://www.nihon-kotsu.co.jp/) |
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-hinomaru.png) | 日の丸自動車 | [官网](https://hinomaru.tokyo/) |
 
-##観光・おでかけ・宿泊施設
+### 観光・おでかけ・宿泊施設
 | Logo | 店名（日文） | 链接 |
 |------|--------------|------|
 | ![Image](https://www.jreast.co.jp/suicamoney/img/common-logo-kahaku.png) | 国立科学博物館 | [官网](http://www.kahaku.go.jp/) |
@@ -285,6 +285,8 @@ source: [JR东日本官网](https://www.jreast.co.jp/suicamoney/shopping/)
 ## 别人整理的支持suica的店
 https://www.money-press.info/suica-acceptstore/
 
+https://no-genkin.com/
+
 ## app或网站找到可以suica支付的餐馆：
 在更多详细筛选条件里选择关键词：電子マネー || 交通系電子マネー
 | Logo | 店名（日文） | 链接 |
@@ -296,6 +298,7 @@ https://www.money-press.info/suica-acceptstore/
 类似hotpeper，但是可以找到除了餐馆以外可以刷suica的店，但是不全。
 
 筛选关键词：電子マネー || 交通系電子マネー
+
 ekiten：[链接](https://www.ekiten.jp/)
 
 ## 谷歌地图
@@ -321,4 +324,11 @@ EGAO BANH MI 越南料理
 1pound steak&hamburg takeru 牛排马肉排
 
 セント 韩国料理
+
+## 大阪地区支持suica付款的出租车公司（待更新）
+
+| Logo | 店名（日文） | 链接 |
+|------|--------------|------|
+| |阪急taxi| https://www.hankyu-taxi.co.jp/reservation/smartphone.html|
+| |国际兴业大阪|https://www.kkg-osaka.jp/money02.html|
 
